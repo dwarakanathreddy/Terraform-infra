@@ -1,0 +1,1 @@
+Kinesis DataFirehose timestamp S3 prefix [doc](https://docs.aws.amazon.com/firehose/latest/dev/s3-prefixes.html)
