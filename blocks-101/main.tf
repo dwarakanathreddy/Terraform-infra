@@ -17,7 +17,7 @@ resource "aws_s3_bucket" "example" {
   bucket = "dwarak-tf-test-bucket-github"
 
   tags = {
-    Name        = "My bucket"
+    Name        = "Dev bucket / Test bucket "
     Environment = "Dev"
   }
 }
